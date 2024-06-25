@@ -33,6 +33,8 @@ DB_PASSWORD=password
 
 ``` php artisan passport:client --personal ```
 
+- Create first user. Please, create ```/api/registration``` request.
+
 This is done so that the first user becomes an administrator
 
 - Fill the database
