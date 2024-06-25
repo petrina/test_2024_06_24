@@ -4,7 +4,7 @@
 
 - Clone the git repository into the working directory
 
-``` git clone ```
+``` git@github.com:petrina/test_2024_06_24.git ```
 
 - Create database
 - Create a .env file based on the example and change the database connection in it. Example:
